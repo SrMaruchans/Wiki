@@ -17,6 +17,7 @@ Bienvenido a la wiki oficial de **Wolfland Network**, un servidor de Minecraft *
 - [Reglas](reglas.md): las normas detalladas del servidor.
 - [Comandos](comandos.md): todos los comandos disponibles.
 - [Rangos](rangos.md): rangos de jugador y staff, con sus beneficios.
+- [Creadores de contenido](rangos-media.md): requisitos para obtener un rango media.
 - [Noticias](noticias.md): últimas actualizaciones.
 - [Discord](https://discord.com/invite/jCmngqZRFV): únete a la comunidad, abre tickets y habla con el staff.
 - [Tienda](https://wolfland.tebex.store/): tienda oficial del servidor.

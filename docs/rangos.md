@@ -5,8 +5,8 @@ Todos los rangos de **Wolfland Network**, organizados por categoría.
 | Categoría | Descripción |
 |-----------|-------------|
 | [Staff](#rangos-del-staff) | Equipo que administra, desarrolla y modera el servidor |
-| [Media](#rangos-media) | Creadores de contenido que representan al servidor |
 | [Premium](#rangos-premium) | Rangos con beneficios para los jugadores ([ver detalle](rangos-premium.md)) |
+| [Media](#rangos-media) | Creadores de contenido que representan al servidor ([ver detalle](rangos-media.md)) |
 | [Exclusivos](#rangos-exclusivos-y-caducados) | Rangos de temporadas pasadas que ya no se pueden obtener |
 
 !!! note "Para el administrador"
@@ -152,25 +152,9 @@ Los rangos de **Developer** y **Manager** se asignan por designación directa de
 
 ---
 
-## Rangos media
-
-Rangos para los creadores de contenido que muestran Wolfland Network en sus redes.
-
-| Rango | Plataforma | Requisitos | Beneficios |
-|-------|------------|------------|------------|
-| ![Tiktoker](assets/images/ranks/tiktok.png){ .rank-tag } | TikTok | Por definir | Por definir |
-| ![Kick](assets/images/ranks/kick.png){ .rank-tag } | Kick | Por definir | Por definir |
-| ![Youtuber](assets/images/ranks/youtuber.png){ .rank-tag } | YouTube | Por definir | Por definir |
-| ![Twitcher](assets/images/ranks/twitcher.png){ .rank-tag } | Twitch | Por definir | Por definir |
-
-!!! tip "¿Eres creador de contenido?"
-    Abre un [ticket](https://discord.com/invite/jCmngqZRFV) en nuestro Discord con el enlace a tu canal. Los requisitos y beneficios se anunciarán próximamente.
-
----
-
 ## Rangos premium
 
-Rangos con prefijo, kits, más capacidad y comandos exclusivos. Ordenados de mayor a menor.
+Rangos con etiqueta exclusiva, kits, más capacidad y comandos exclusivos. Ordenados de mayor a menor.
 
 | Rango | Resumen |
 |-------|---------|
@@ -180,12 +164,27 @@ Rangos con prefijo, kits, más capacidad y comandos exclusivos. Ordenados de may
 | ![Omega](assets/images/ranks/omega.png){ .rank-tag } | Kits dobles, AFK infinito y enderchest |
 | ![Alfa](assets/images/ranks/alfa.png){ .rank-tag } | Más capacidad, subastas y trabajos |
 | ![Colmillo](assets/images/ranks/colmillo.png){ .rank-tag } | El primer rango premium |
-| ![Miembro](assets/images/ranks/miembro.png){ .rank-tag } | Por definir |
+| ![Miembro](assets/images/ranks/miembro.png){ .rank-tag } | Rango inicial por defecto, sin beneficios extras |
 
 [:material-crown: Ver todos los beneficios de los rangos premium](rangos-premium.md){ .md-button .md-button--primary }
 
 !!! tip "Descuentos"
     Hay descuentos cada cierto tiempo y se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV). Visita también la [tienda oficial](https://wolfland.tebex.store/).
+
+---
+
+## Rangos media
+
+Rangos para los creadores de contenido que muestran Wolfland Network en sus redes. Todos equivalen a un rango **Beta** del servidor.
+
+| Etiqueta | Plataforma | Requisito base |
+|:--------:|------------|----------------|
+| ![Tiktoker](assets/images/ranks/tiktok.png){ .rank-tag } | TikTok | Videos con más de 200 vistas o lives de 10 a 50+ viewers |
+| ![Youtuber](assets/images/ranks/youtuber.png){ .rank-tag } | YouTube | Videos con más de 500 vistas o reels con más de 1000 vistas, y mínimo 100 suscriptores |
+| ![Twitch](assets/images/ranks/twitcher.png){ .rank-tag } | Twitch | Transmisiones con mínimo 10 viewers y mínimo 50 seguidores |
+| ![Kick](assets/images/ranks/kick.png){ .rank-tag } | Kick | Igual que Twitch |
+
+[:material-video-account: Ver requisitos, reglas y cómo postular](rangos-media.md){ .md-button .md-button--primary }
 
 ---
 

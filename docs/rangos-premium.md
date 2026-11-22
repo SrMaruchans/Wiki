@@ -5,6 +5,11 @@ Los rangos premium de **Wolfland Network** te dan una etiqueta exclusiva, kits, 
 !!! tip "Descuentos por tiempo limitado"
     Cada cierto tiempo hay **descuentos en los rangos**. Se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV), así que únete para no perderte ninguna oferta.
 
+!!! info "Rango Miembro"
+    ![Miembro](assets/images/ranks/miembro.png){ .rank-tag }
+
+    Es el **rango inicial**: el que recibe todo jugador al entrar por primera vez al servidor. No incluye beneficios extras. Los rangos de esta página son mejoras sobre él.
+
 [:fontawesome-solid-store: Ver la tienda](https://wolfland.tebex.store/){ .md-button .md-button--primary }
 [:fontawesome-brands-discord: Unirse al Discord](https://discord.com/invite/jCmngqZRFV){ .md-button }
 
