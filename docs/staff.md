@@ -7,13 +7,13 @@ Conoce al equipo que cuida Wolfland Network. Las funciones de cada rango están 
 | Rango | Miembro |
 |-------|---------|
 | Fundador | Maruchans |
-| ![Owner](assets/images/ranks/owner.png){ .rank-tag } | Maruchans |
-| ![Dev](assets/images/ranks/dev.png){ .rank-tag } | *Nombre* |
-| ![Manager](assets/images/ranks/manager.png){ .rank-tag } | *Nombre* |
-| ![Admin](assets/images/ranks/admin.png){ .rank-tag } | *Nombre* |
-| ![Mod](assets/images/ranks/mod.png){ .rank-tag } | *Nombre* |
-| ![Helper](assets/images/ranks/helper.png){ .rank-tag } | *Nombre* |
-| ![T-Helper](assets/images/ranks/thelper.png){ .rank-tag } | *Nombre* |
+| ![Owner](assets/images/ranks/owner.png){ .rank-tag } | Jhazz26 |
+| ![Dev](assets/images/ranks/dev.png){ .rank-tag } | _Tommasino_ |
+| ![Manager](assets/images/ranks/manager.png){ .rank-tag } | Vacio |
+| ![Admin](assets/images/ranks/admin.png){ .rank-tag } | Vacio |
+| ![Mod](assets/images/ranks/mod.png){ .rank-tag } | MrCraft |
+| ![Helper](assets/images/ranks/helper.png){ .rank-tag } | Vacio |
+| ![T-Helper](assets/images/ranks/thelper.png){ .rank-tag } | Vacio |
 
 ## Creadores de contenido (media)
 
