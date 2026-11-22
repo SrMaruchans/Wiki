@@ -52,3 +52,21 @@
   border-color: #cc4200;
   color: #ffffff;
 }
+
+/* Etiquetas de rangos (pixel art): se ven nítidas al escalarlas */
+.md-typeset img.rank-tag,
+.md-typeset img.rank-tag-lg {
+  image-rendering: pixelated;
+  height: auto;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 0;
+}
+.md-typeset img.rank-tag { width: 89px; }
+.md-typeset img.rank-tag-lg { width: 178px; }
+
+/* Imagen centrada (banner del inicio) */
+.md-typeset img.center {
+  display: block;
+  margin: 0 auto 1rem auto;
+}

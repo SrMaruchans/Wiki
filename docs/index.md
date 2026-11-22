@@ -1,4 +1,6 @@
-# 🐺 Wolfland Network
+![Wolfland Network](assets/logo-wolfland.png){ .center width="420" }
+
+# Bienvenido
 
 Bienvenido a la wiki oficial de **Wolfland Network**, un servidor de Minecraft **Survival Custom**. Aquí encontrarás cómo entrar, las reglas, los comandos, los rangos y todas las novedades de la comunidad.
 

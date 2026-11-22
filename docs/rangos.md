@@ -18,16 +18,16 @@ Todos los rangos de **Wolfland Network**, organizados por categoría.
 
 Ordenados de mayor a menor jerarquía.
 
-| Nivel | Rango | Área |
-|:-----:|-------|------|
-| 1 | **Fundador** | Dirección del proyecto |
-| 2 | **Owner** | Dirección del servidor |
-| 3 | **Developer** | Desarrollo y sistemas técnicos |
-| 4 | **Manager** | Gestión del equipo |
-| 5 | **Admin** | Administración general |
-| 6 | **Moderador** (Mod) | Moderación |
-| 7 | **Helper** (Ayudante) | Soporte a jugadores |
-| 8 | **T-Helper** (Ayudante de Prueba) | Periodo de prueba |
+| Nivel | Etiqueta | Rango | Área |
+|:-----:|:--------:|-------|------|
+| 1 | — | **Fundador** | Dirección del proyecto |
+| 2 | ![Owner](assets/images/ranks/owner.png){ .rank-tag } | **Owner** | Dirección del servidor |
+| 3 | ![Dev](assets/images/ranks/dev.png){ .rank-tag } | **Developer** | Desarrollo y sistemas técnicos |
+| 4 | ![Manager](assets/images/ranks/manager.png){ .rank-tag } | **Manager** | Gestión del equipo |
+| 5 | ![Admin](assets/images/ranks/admin.png){ .rank-tag } | **Admin** | Administración general |
+| 6 | ![Mod](assets/images/ranks/mod.png){ .rank-tag } | **Moderador** (Mod) | Moderación |
+| 7 | ![Helper](assets/images/ranks/helper.png){ .rank-tag } | **Helper** (Ayudante) | Soporte a jugadores |
+| 8 | ![T-Helper](assets/images/ranks/thelper.png){ .rank-tag } | **T-Helper** (Ayudante de Prueba) | Periodo de prueba |
 
 ### Fundador
 
@@ -41,6 +41,8 @@ Ordenados de mayor a menor jerarquía.
 
 ### Owner
 
+![Owner](assets/images/ranks/owner.png){ .rank-tag-lg }
+
 *Dueño y máximo responsable del servidor.*
 
 **Funciones**
@@ -51,6 +53,8 @@ Ordenados de mayor a menor jerarquía.
 - Resuelve los casos de mayor gravedad y las apelaciones difíciles.
 
 ### Developer
+
+![Dev](assets/images/ranks/dev.png){ .rank-tag-lg }
 
 *Responsable del desarrollo técnico del servidor.*
 
@@ -64,6 +68,8 @@ Ordenados de mayor a menor jerarquía.
 
 ### Manager
 
+![Manager](assets/images/ranks/manager.png){ .rank-tag-lg }
+
 *Responsable de organizar y dirigir al equipo.*
 
 **Funciones**
@@ -75,6 +81,8 @@ Ordenados de mayor a menor jerarquía.
 - Sirve de enlace entre el staff y la dirección.
 
 ### Admin
+
+![Admin](assets/images/ranks/admin.png){ .rank-tag-lg }
 
 *Encargado de la administración diaria del servidor.*
 
@@ -88,6 +96,8 @@ Ordenados de mayor a menor jerarquía.
 
 ### Moderador (Mod)
 
+![Mod](assets/images/ranks/mod.png){ .rank-tag-lg }
+
 *Encargado de hacer cumplir las reglas.*
 
 **Funciones**
@@ -100,6 +110,8 @@ Ordenados de mayor a menor jerarquía.
 
 ### Helper (Ayudante)
 
+![Helper](assets/images/ranks/helper.png){ .rank-tag-lg }
+
 *Primera línea de ayuda para los jugadores.*
 
 **Funciones**
@@ -111,6 +123,8 @@ Ordenados de mayor a menor jerarquía.
 - Aplica silencios leves y advertencias cuando corresponde.
 
 ### T-Helper (Ayudante de Prueba)
+
+![T-Helper](assets/images/ranks/thelper.png){ .rank-tag-lg }
 
 *Rango temporal para quienes están ingresando al staff.*
 
@@ -144,10 +158,10 @@ Rangos para los creadores de contenido que muestran Wolfland Network en sus rede
 
 | Rango | Plataforma | Requisitos | Beneficios |
 |-------|------------|------------|------------|
-| **Tiktoker** | TikTok | Por definir | Por definir |
-| **Kick** | Kick | Por definir | Por definir |
-| **Youtuber** | YouTube | Por definir | Por definir |
-| **Twitch** | Twitch | Por definir | Por definir |
+| ![Tiktoker](assets/images/ranks/tiktok.png){ .rank-tag } | TikTok | Por definir | Por definir |
+| ![Kick](assets/images/ranks/kick.png){ .rank-tag } | Kick | Por definir | Por definir |
+| ![Youtuber](assets/images/ranks/youtuber.png){ .rank-tag } | YouTube | Por definir | Por definir |
+| ![Twitcher](assets/images/ranks/twitcher.png){ .rank-tag } | Twitch | Por definir | Por definir |
 
 !!! tip "¿Eres creador de contenido?"
     Abre un [ticket](https://discord.com/invite/jCmngqZRFV) en nuestro Discord con el enlace a tu canal. Los requisitos y beneficios se anunciarán próximamente.
@@ -160,13 +174,13 @@ Rangos con prefijo, kits, más capacidad y comandos exclusivos. Ordenados de may
 
 | Rango | Resumen |
 |-------|---------|
-| **Wolf+** | El rango más caro y exclusivo |
-| **Wolf** | El segundo rango más caro y mejor |
-| **Beta** | Beneficios avanzados y mesas de trabajo |
-| **Omega** | Kits dobles, AFK infinito y enderchest |
-| **Alfa** | Más capacidad, subastas y trabajos |
-| **Colmillo** | El primer rango premium |
-| **Miembro** | Por definir |
+| ![Wolf+](assets/images/ranks/wolf-plus.png){ .rank-tag } | El rango más caro y exclusivo |
+| ![Wolf](assets/images/ranks/wolf.png){ .rank-tag } | El segundo rango más caro y mejor |
+| ![Beta](assets/images/ranks/beta.png){ .rank-tag } | Beneficios avanzados y mesas de trabajo |
+| ![Omega](assets/images/ranks/omega.png){ .rank-tag } | Kits dobles, AFK infinito y enderchest |
+| ![Alfa](assets/images/ranks/alfa.png){ .rank-tag } | Más capacidad, subastas y trabajos |
+| ![Colmillo](assets/images/ranks/colmillo.png){ .rank-tag } | El primer rango premium |
+| ![Miembro](assets/images/ranks/miembro.png){ .rank-tag } | Por definir |
 
 [:material-crown: Ver todos los beneficios de los rangos premium](rangos-premium.md){ .md-button .md-button--primary }
 

@@ -1,6 +1,6 @@
 # Rangos Premium
 
-Los rangos premium de **Wolfland Network** te dan prefijo, kits, más capacidad para jugar y comandos exclusivos. Cuanto más alto el rango, más beneficios, e **incluye todo lo de los rangos anteriores**.
+Los rangos premium de **Wolfland Network** te dan una etiqueta exclusiva, kits, más capacidad para jugar y comandos exclusivos. Cuanto más alto el rango, más beneficios, e **incluye todo lo de los rangos anteriores**.
 
 !!! tip "Descuentos por tiempo limitado"
     Cada cierto tiempo hay **descuentos en los rangos**. Se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV), así que únete para no perderte ninguna oferta.
@@ -14,7 +14,7 @@ Los rangos premium de **Wolfland Network** te dan prefijo, kits, más capacidad 
 
 | Beneficio | Colmillo | Alfa | Omega | Beta | Wolf | Wolf+ |
 |-----------|:--------:|:----:|:-----:|:----:|:----:|:-----:|
-| **Prefijo en el servidor** | `[COLMILLO]` | `[ALFA]` | `[OMEGA]` | `[BETA]` | `[WOLF]` | `[WOLF+]` |
+| **Etiqueta en el servidor** | ![Colmillo](assets/images/ranks/colmillo.png){ .rank-tag } | ![Alfa](assets/images/ranks/alfa.png){ .rank-tag } | ![Omega](assets/images/ranks/omega.png){ .rank-tag } | ![Beta](assets/images/ranks/beta.png){ .rank-tag } | ![Wolf](assets/images/ranks/wolf.png){ .rank-tag } | ![Wolf+](assets/images/ranks/wolf-plus.png){ .rank-tag } |
 | **Rol de Discord** | `@COLMILLO` | `@ALFA` | `@OMEGA` | `@BETA` | `@WOLF` | `@WOLF+` |
 | **Kit** | Colmillo | Alfa | Omega y Épico | Beta y anteriores | Wolf y anteriores | Wolf+ y anteriores |
 | **Frecuencia del kit** | 15 días | 15 días | 15 días | 15 días | 15 días | 14 días |
@@ -110,7 +110,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
 
     | Categoría | Incluye |
     |-----------|---------|
-    | **Identidad** | Prefijo `[COLMILLO]` y rol `@COLMILLO` en [Discord](https://discord.com/invite/jCmngqZRFV) |
+    | **Identidad** | Etiqueta ![Colmillo](assets/images/ranks/colmillo.png){ .rank-tag } y rol `@COLMILLO` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT COLMILLO cada 15 días |
     | **Capacidades** | 5 homes · 5 misiones · 3 bóvedas · 4 protecciones · 20 ShopChest · 2 pwarps |
     | **Recompensas** | 5 llaves de Caja Legendaria |
@@ -123,7 +123,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
 
     | Categoría | Incluye |
     |-----------|---------|
-    | **Identidad** | Prefijo `[ALFA]` y rol `@ALFA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
+    | **Identidad** | Etiqueta ![Alfa](assets/images/ranks/alfa.png){ .rank-tag } y rol `@ALFA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT ALFA cada 15 días |
     | **Capacidades** | 8 homes · 5 subastas · 5 trabajos · 8 misiones · 4 bóvedas · 6 protecciones · 30 ShopChest · 3 pwarps |
     | **Recompensas** | 8 llaves de Caja Legendaria |
@@ -136,7 +136,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
 
     | Categoría | Incluye |
     |-----------|---------|
-    | **Identidad** | Prefijo `[OMEGA]` y rol `@OMEGA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
+    | **Identidad** | Etiqueta ![Omega](assets/images/ranks/omega.png){ .rank-tag } y rol `@OMEGA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT OMEGA y KIT ÉPICO cada 15 días |
     | **Capacidades** | 16 homes · 8 subastas · 10 trabajos · 12 misiones · 5 bóvedas · 8 protecciones · 50 ShopChest · 4 pwarps |
     | **Recompensas** | 10 llaves de Caja Legendaria |
@@ -149,7 +149,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
 
     | Categoría | Incluye |
     |-----------|---------|
-    | **Identidad** | Prefijo `[BETA]` y rol `@BETA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
+    | **Identidad** | Etiqueta ![Beta](assets/images/ranks/beta.png){ .rank-tag } y rol `@BETA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT BETA y los kits anteriores cada 15 días |
     | **Capacidades** | 24 homes · 12 ítems en subasta · 15 trabajos · 16 misiones · 6 bóvedas · 5 protecciones · 80 ShopChest · 5 pwarps |
     | **Recompensas** | 15 llaves de Caja Legendaria |
@@ -162,7 +162,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
 
     | Categoría | Incluye |
     |-----------|---------|
-    | **Identidad** | Prefijo `[WOLF]` y rol `@WOLF` en [Discord](https://discord.com/invite/jCmngqZRFV) |
+    | **Identidad** | Etiqueta ![Wolf](assets/images/ranks/wolf.png){ .rank-tag } y rol `@WOLF` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT WOLF y todos los kits anteriores cada 15 días |
     | **Capacidades** | Homes infinitos · 20 subastas · todos los trabajos · todas las misiones · 8 bóvedas · 12 protecciones · 80 ShopChest · 7 pwarps |
     | **Recompensas** | 20 llaves de Caja Legendaria |
@@ -175,7 +175,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
 
     | Categoría | Incluye |
     |-----------|---------|
-    | **Identidad** | Prefijo `[WOLF+]` y rol `@WOLF+` en [Discord](https://discord.com/invite/jCmngqZRFV) |
+    | **Identidad** | Etiqueta ![Wolf+](assets/images/ranks/wolf-plus.png){ .rank-tag } y rol `@WOLF+` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT WOLF+ y todos los demás kits cada **14 días** |
     | **Capacidades** | Homes infinitos · 20 subastas · todos los trabajos · todas las misiones · 10 bóvedas · 15 protecciones · 100 ShopChest · 10 pwarps |
     | **Recompensas** | 50 llaves de Caja Legendaria |
