@@ -176,7 +176,7 @@ Rangos con etiqueta exclusiva, kits, más capacidad y comandos exclusivos. Orden
 
 ## Rangos media
 
-Rangos para los creadores de contenido que muestran Wolfland Network en sus redes. Todos equivalen a un rango **Beta** del servidor y tienen rol en Discord, un canal de alertas de redes sociales y un canal exclusivo.
+Rangos para los creadores de contenido que muestran Wolfland Network en sus redes. Todos equivalen a un rango **Alfa** del servidor y tienen rol en Discord, un canal de alertas de redes sociales y un canal exclusivo.
 
 | Etiqueta | Plataforma | Requisito base |
 |:--------:|------------|----------------|

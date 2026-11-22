@@ -27,15 +27,15 @@ Para cada plataforma se pide un mínimo de alcance:
 
 ## Equivalencia de rango
 
-Todos los rangos media equivalen a un rango **Beta** del servidor. Consulta sus beneficios en [Rangos Premium](rangos-premium.md).
+Todos los rangos media equivalen a un rango **Alfa** del servidor. Consulta sus beneficios en [Rangos Premium](rangos-premium.md).
 
 | Equivalencia | Etiqueta | Requisitos |
 |--------------|:--------:|------------|
-| **Beta** | ![Beta](assets/images/ranks/beta.png){ .rank-tag } | Los requisitos base de la tabla anterior |
-| **Wolf** | ![Wolf](assets/images/ranks/wolf.png){ .rank-tag } | El doble de los requisitos base |
-| **Wolf+** | ![Wolf+](assets/images/ranks/wolf-plus.png){ .rank-tag } | El triple de los requisitos base |
+| **Alfa** | ![Alfa](assets/images/ranks/alfa.png){ .rank-tag } | Los requisitos base de la tabla anterior |
+| **Omega** | ![Omega](assets/images/ranks/omega.png){ .rank-tag } | El doble de los requisitos base |
+| **Wolf** | ![Wolf](assets/images/ranks/wolf.png){ .rank-tag } | El triple de los requisitos base |
 
-- Si quieres la equivalencia de **Wolf** o **Wolf+**, **indícalo al postular o al reclamar tu rango**.
+- Si quieres la equivalencia de **Omega** o **Wolf**, **indícalo al postular o al reclamar tu rango**.
 - Si tus requisitos mejoran de forma notable, se te dará una **mejora de rango sin necesidad de pedirla**.
 
 ---
@@ -46,6 +46,7 @@ Además del rango equivalente dentro del servidor, los creadores tienen benefici
 
 | Beneficio | Detalle |
 |-----------|---------|
+| **Rango en el servidor** | El rango equivalente: **Alfa**, **Omega** o **Wolf**, según tus requisitos |
 | **Rol en Discord** | Un rol acorde a tu rango media |
 | **Canal de redes sociales** | Un canal donde se publica una **alerta** cuando prendes un live, transmites o subes un video en las redes con las que eres creador |
 | **Canal exclusivo** | Acceso a un canal único para los rangos media |
@@ -117,7 +118,7 @@ Discord: https://discord.com/invite/jCmngqZRFV
 1. Abre un **ticket** en nuestro [Discord](https://discord.com/invite/jCmngqZRFV).
 2. Indica tu **plataforma** y el enlace a tu canal o cuenta.
 3. Comparte los **datos de la última semana** de tu contenido.
-4. Si aspiras a **Wolf** o **Wolf+**, especifícalo en tu solicitud.
+4. Si aspiras a **Omega** o **Wolf**, especifícalo en tu solicitud.
 5. Recibirás las **redes oficiales del servidor** para que las etiquetes y menciones.
 
 [:fontawesome-brands-discord: Abrir ticket](https://discord.com/invite/jCmngqZRFV){ .md-button .md-button--primary }
