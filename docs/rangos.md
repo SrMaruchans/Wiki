@@ -6,7 +6,7 @@ Todos los rangos de **Wolfland Network**, organizados por categoría.
 |-----------|-------------|
 | [Staff](#rangos-del-staff) | Equipo que administra, desarrolla y modera el servidor |
 | [Media](#rangos-media) | Creadores de contenido que representan al servidor |
-| [Premium](#rangos-premium) | Rangos con beneficios para los jugadores |
+| [Premium](#rangos-premium) | Rangos con beneficios para los jugadores ([ver detalle](rangos-premium.md)) |
 | [Exclusivos](#rangos-exclusivos-y-caducados) | Rangos de temporadas pasadas que ya no se pueden obtener |
 
 !!! note "Para el administrador"
@@ -156,20 +156,22 @@ Rangos para los creadores de contenido que muestran Wolfland Network en sus rede
 
 ## Rangos premium
 
-Rangos con beneficios para los jugadores, ordenados de mayor a menor.
+Rangos con prefijo, kits, más capacidad y comandos exclusivos. Ordenados de mayor a menor.
 
-| Rango | Beneficios |
-|-------|------------|
-| **Wolf+** | Por definir |
-| **Wolf** | Por definir |
-| **Beta** | Por definir |
-| **Omega** | Por definir |
-| **Alfa** | Por definir |
-| **Colmillo** | Por definir |
+| Rango | Resumen |
+|-------|---------|
+| **Wolf+** | El rango más caro y exclusivo |
+| **Wolf** | El segundo rango más caro y mejor |
+| **Beta** | Beneficios avanzados y mesas de trabajo |
+| **Omega** | Kits dobles, AFK infinito y enderchest |
+| **Alfa** | Más capacidad, subastas y trabajos |
+| **Colmillo** | El primer rango premium |
 | **Miembro** | Por definir |
 
-!!! info "Más información"
-    Consulta la [tienda oficial](https://wolfland.tebex.store/) o abre un [ticket](https://discord.com/invite/jCmngqZRFV) en nuestro Discord para resolver dudas sobre los rangos.
+[:material-crown: Ver todos los beneficios de los rangos premium](rangos-premium.md){ .md-button .md-button--primary }
+
+!!! tip "Descuentos"
+    Hay descuentos cada cierto tiempo y se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV). Visita también la [tienda oficial](https://wolfland.tebex.store/).
 
 ---
 
