@@ -12,7 +12,7 @@ Conoce al equipo que cuida Wolfland Network. Las funciones de cada rango están 
 | ![Manager](assets/images/ranks/manager.png){ .rank-tag } | Vacio |
 | ![Admin](assets/images/ranks/admin.png){ .rank-tag } | Vacio |
 | ![Mod](assets/images/ranks/mod.png){ .rank-tag } | MrCraft |
-| ![Helper](assets/images/ranks/helper.png){ .rank-tag } | Vacio |
+| ![Helper](assets/images/ranks/helper.png){ .rank-tag } | TheWynterOne |
 | ![T-Helper](assets/images/ranks/thelper.png){ .rank-tag } | Vacio |
 
 ## Creadores de contenido (media)
