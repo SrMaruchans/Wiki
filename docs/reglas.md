@@ -12,8 +12,9 @@ Estas reglas aplican a todos los jugadores y miembros de **Wolfland Network**, t
 | [1. Disposiciones generales](#1-disposiciones-generales) | Cómo se aplican e interpretan todas las reglas |
 | [2. Reglas del servidor de Minecraft](#2-reglas-del-servidor-de-minecraft) | Conducta, chat, juego limpio, construcción, economía y cuentas |
 | [3. Reglas del Discord](#3-reglas-del-discord) | Conducta, contenido, canales, voz, perfiles y tickets |
-| [4. Sanciones](#4-sanciones) | Niveles de gravedad y consecuencias |
-| [5. Reportes y apelaciones](#5-reportes-y-apelaciones) | Cómo reportar una falta o apelar una sanción |
+| [4. Tienda oficial (Tebex)](#4-tienda-oficial-tebex) | Compras, ventas no autorizadas, reembolsos y pagos |
+| [5. Sanciones](#5-sanciones) | Niveles de gravedad y consecuencias |
+| [6. Reportes y apelaciones](#6-reportes-y-apelaciones) | Cómo reportar una falta o apelar una sanción |
 
 ---
 
@@ -27,7 +28,7 @@ Estas reglas aplican a todos los jugadores y miembros de **Wolfland Network**, t
 
 **1.4 Interpretación y espíritu de las reglas.** Ninguna lista puede cubrir todas las situaciones posibles. Las reglas se interpretan según su finalidad: mantener una comunidad segura, justa y agradable. Una conducta que no esté escrita, pero que perjudique al servidor, a la comunidad o a otros jugadores, puede sancionarse igualmente. Decir que "no estaba prohibido" o buscar huecos en la redacción **no es una defensa válida**.
 
-**1.5 Decisiones del staff.** El staff decide según su criterio y de forma proporcional a cada caso. Sus decisiones deben respetarse. Si no estás de acuerdo, usa el sistema de [apelaciones](#5-reportes-y-apelaciones) por ticket. Discutir una decisión en público no está permitido.
+**1.5 Decisiones del staff.** El staff decide según su criterio y de forma proporcional a cada caso. Sus decisiones deben respetarse. Si no estás de acuerdo, usa el sistema de [apelaciones](#6-reportes-y-apelaciones) por ticket. Discutir una decisión en público no está permitido.
 
 **1.6 Las reglas aplican a todos.** El rango (premium, media, artista o staff), la antigüedad, las compras o la amistad con el staff no dan inmunidad ni trato especial. Los miembros del staff también deben cumplirlas y responden ante la dirección. Si crees que un miembro del staff las infringió, repórtalo por ticket.
 
@@ -73,7 +74,7 @@ Estas reglas aplican a todos los jugadores y miembros de **Wolfland Network**, t
 
 **2.2.5 Información falsa.** No difundas rumores ni mentiras sobre el servidor, el staff o los jugadores, ni mientas al staff durante una investigación o un ticket.
 
-**2.2.6 Idioma.** Usa el idioma principal del servidor en el chat público.
+**2.2.6 Idioma.** Los idiomas oficiales de Wolfland Network son el **español** y el **inglés**. Usa uno de ellos en el chat público para que el staff pueda entender y moderar la conversación.
 
 **2.2.7 Reportes falsos.** No hagas reportes falsos ni uses los canales de ayuda para molestar.
 
@@ -101,13 +102,15 @@ Estas reglas aplican a todos los jugadores y miembros de **Wolfland Network**, t
 
 **2.4.3 Construcciones.** No construyas nada ofensivo, que bloquee zonas importantes, que afecte el rendimiento o que moleste a propósito a otros jugadores.
 
-**2.4.4 Construcciones abandonadas o problemáticas.** El staff puede retirar, modificar o mover construcciones abandonadas o que infrinjan las reglas, sin compensación.
+**2.4.4 Construcciones abandonadas.** Una base, construcción o terreno protegido se considera **abandonado** cuando su propietario no se conecta al servidor durante **2 meses** desde su última conexión. Pasado ese tiempo, el staff puede **eliminarlo**, junto con sus protecciones y su contenido, sin compensación y sin garantía de poder restaurarlo. Esto aplica a todos los jugadores, sin importar su rango.
+
+**2.4.5 Construcciones que infringen las reglas.** El staff puede retirar, modificar o mover cualquier construcción que infrinja las reglas, sin compensación.
 
 ### 2.5 Economía y comercio
 
 **2.5.1 Estafas.** Está prohibido engañar a otros jugadores en intercambios, tiendas o subastas (por ejemplo, cambiar precios, ofrecer ítems falsos o no cumplir un trato acordado). Los acuerdos entre jugadores son bajo su propia responsabilidad: el staff puede intervenir en casos de estafa comprobada, pero no está obligado a reponer lo perdido.
 
-**2.5.2 Dinero real.** Está prohibido comprar, vender, regalar o intercambiar ítems, dinero del servidor, rangos o cuentas por dinero real o por otros bienes fuera de la tienda oficial.
+**2.5.2 Dinero real.** Está prohibido comprar, vender, regalar o intercambiar ítems, dinero del servidor, rangos o cuentas por dinero real o por otros bienes fuera de la tienda oficial. Todas las compras se rigen por la [sección 4](#4-tienda-oficial-tebex).
 
 **2.5.3 Uso justo de los beneficios.** Los comandos y beneficios de los rangos deben usarse de forma justa. No se permite usarlos para molestar, acosar o perjudicar a otros jugadores ni al servidor.
 
@@ -173,7 +176,7 @@ Nuestro Discord está sujeto a los [Términos de Servicio](https://discord.com/t
 
 **3.4.3 Menciones.** No uses `@everyone`, `@here` ni menciones de roles sin permiso. No menciones de forma repetida al staff ni a otros miembros.
 
-**3.4.4 Mayúsculas e idioma.** Evita abusar de las mayúsculas y usa el idioma principal de la comunidad en los canales públicos.
+**3.4.4 Mayúsculas e idioma.** Evita abusar de las mayúsculas. Los idiomas oficiales de la comunidad son el **español** y el **inglés**: usa uno de ellos en los canales públicos para que el staff pueda entender y moderar.
 
 **3.4.5 Temas conflictivos.** Evita los debates políticos, religiosos o polémicos que generen conflictos. El staff puede cortar cualquier conversación que escale.
 
@@ -189,7 +192,7 @@ Nuestro Discord está sujeto a los [Términos de Servicio](https://discord.com/t
 
 **3.5.4 Estafas y fraude.** Están prohibidas las estafas, los sorteos falsos y cualquier intento de obtener dinero, cuentas o datos mediante engaño.
 
-**3.5.5 Compra y venta.** No compres ni vendas cuentas, ítems, rangos ni servicios en el Discord, salvo en los canales y servicios autorizados por la dirección.
+**3.5.5 Compra y venta.** No compres ni vendas cuentas, ítems, rangos ni servicios en el Discord, salvo en los canales y servicios autorizados por la dirección. Los rangos y beneficios del servidor solo se compran en la tienda oficial, según la [sección 4](#4-tienda-oficial-tebex).
 
 ### 3.6 Canales de voz
 
@@ -235,7 +238,36 @@ Nuestro Discord está sujeto a los [Términos de Servicio](https://discord.com/t
 
 ---
 
-## 4. Sanciones
+## 4. Tienda oficial (Tebex)
+
+La tienda oficial de Wolfland Network funciona con **Tebex** y está en [wolfland.tebex.store](https://wolfland.tebex.store/). Es el **único** lugar donde se pueden comprar rangos, beneficios y demás productos del servidor. Al comprar aceptas estas reglas y también los [Términos de Tebex](https://checkout.tebex.io/terms).
+
+**4.1 Única tienda válida.** Todas las compras del servidor deben hacerse en la tienda oficial. Cualquier compra, venta, intercambio o pago hecho fuera de ella **no está permitido** y no será reconocido: Wolfland Network no entregará beneficios ni se hará responsable de lo que se pague por otros medios.
+
+**4.2 Ventas no autorizadas.** Nadie está autorizado a vender rangos, beneficios, productos ni servicios del servidor fuera de la tienda oficial, **incluidos los miembros del staff**. La **única persona** autorizada para hacerlo es el **Fundador**. Quien venda sin autorización será sancionado, sin importar su rango.
+
+**4.3 Verifica y reporta.** Si alguien te ofrece vender o comprar algo del servidor fuera de la tienda, sea un miembro del staff no autorizado u otra persona, **no pagues y repórtalo por ticket** con pruebas (por ejemplo, capturas de la conversación). Si alguien dice tener autorización, confírmalo con el Fundador por ticket antes de hacer cualquier pago.
+
+**4.4 Dinero real: lo resuelve el Fundador.** Tebex procesa los pagos y la facturación de la tienda. Todo lo relacionado con dinero real (pagos, cobros, entregas de compras, reembolsos y disputas) lo revisa y resuelve **personalmente el Fundador**. Ningún otro miembro del staff puede aprobar, prometer ni gestionar pagos, cobros o reembolsos, aunque lo ofrezca. Si tienes un problema, abre un ticket indicando que es un asunto de pagos y adjunta tu comprobante. Los asuntos de pagos se atienden **según la disponibilidad del Fundador**, por lo que no hay un tiempo de respuesta garantizado. Abrir varios tickets o insistir no acelera la revisión.
+
+**4.5 Datos correctos al comprar.** Las compras se asocian al nombre de usuario que indicas al pagar. Escríbelo correctamente e indica bien tu edición (Java o Bedrock). Wolfland Network no se responsabiliza por compras hechas con un usuario equivocado. Si no recibes tu compra, abre un ticket con tu comprobante de pago.
+
+**4.6 Pagos fraudulentos.** Está prohibido pagar con tarjetas, cuentas o métodos de pago robados o sin autorización de su titular. Se sanciona con baneo permanente del servidor y veto de la tienda, y puede reportarse a Tebex y a las autoridades.
+
+**4.7 Reembolsos y contracargos.** **Solo el Fundador** puede aprobar y aplicar reembolsos. Si se realiza un reembolso de una compra por cualquier otro motivo, ya sea solicitado por ti o a través de una disputa o contracargo con tu banco o método de pago, se aplicará el **veto permanente de la tienda** y el **baneo del servidor**, y se retirarán todos los beneficios de esa compra. Si tienes un problema con un cobro, **abre primero un ticket** para intentar resolverlo antes de iniciar una disputa.
+
+Quedan exceptuados de esta sanción:
+
+1. Los reembolsos por un **error de la tienda o del servidor** (por ejemplo, un cobro duplicado), aprobados por el Fundador y **con pruebas**.
+2. Las compensaciones por cambios que te perjudiquen, según la regla 4.9.
+
+**4.8 Compras y sanciones.** Comprar un rango, beneficio o producto no te exime de las reglas ni te da trato especial. Si eres sancionado, incluso con un baneo, no tienes derecho a reembolso, compensación ni extensión de lo que compraste.
+
+**4.9 Cambios en la tienda y compensaciones.** Los precios, descuentos y productos disponibles pueden cambiar en cualquier momento y sin previo aviso. Los descuentos se anuncian en nuestro Discord. Esto **no aplica a lo que ya compraste**: si se modifica un rango, beneficio o producto que ya adquiriste y el cambio **te perjudica**, abre un ticket con tu comprobante y el Fundador revisará tu caso. Si corresponde, se te compensará o reembolsará con una **gift card** para usar en la tienda oficial, por el monto que determine el Fundador según el perjuicio. Los cambios que no te perjudican no dan derecho a compensación.
+
+---
+
+## 5. Sanciones
 
 Las sanciones dependen de la gravedad, la intención y el historial de cada caso. Son **orientativas**: el staff puede aplicar la que considere proporcional, saltarse pasos o aplicar varias a la vez.
 
@@ -246,29 +278,29 @@ Las sanciones dependen de la gravedad, la intención y el historial de cada caso
 | **Grave** | Hacks, griefing, duplicación, acoso, estafas, evasión de sanciones | Baneo temporal o permanente, retirada de objetos o rollback |
 | **Crítica** | Contenido con menores, amenazas graves, doxxing, extremismo, ataques al servidor | Baneo permanente inmediato y reporte a Discord o a las autoridades si corresponde |
 
-**4.1 Reincidencia.** Repetir una falta agrava la sanción.
+**5.1 Reincidencia.** Repetir una falta agrava la sanción.
 
-**4.2 Sanciones cruzadas.** Una sanción en el servidor puede aplicarse también en el Discord, y viceversa.
+**5.2 Sanciones cruzadas.** Una sanción en el servidor puede aplicarse también en el Discord, y viceversa.
 
-**4.3 Retirada de beneficios y objetos.** El staff puede eliminar ítems, dinero, construcciones, rangos o beneficios obtenidos de forma indebida, sin compensación, y revertir las acciones que correspondan.
+**5.3 Retirada de beneficios y objetos.** El staff puede eliminar ítems, dinero, construcciones, rangos o beneficios obtenidos de forma indebida, sin compensación, y revertir las acciones que correspondan.
 
-**4.4 Sanciones y compras.** Las sanciones no dan derecho a reembolso, compensación ni extensión de rangos u otros beneficios comprados.
+**5.4 Sanciones y compras.** Las sanciones no dan derecho a reembolso, compensación ni extensión de rangos u otros beneficios comprados. Consulta la [sección 4](#4-tienda-oficial-tebex).
 
-**4.5 Sin aviso previo.** No siempre habrá una advertencia previa: el staff puede sancionar directamente si la falta lo justifica.
+**5.5 Sin aviso previo.** No siempre habrá una advertencia previa: el staff puede sancionar directamente si la falta lo justifica.
 
-**4.6 Sanciones de Discord.** Discord puede sancionar cuentas por su cuenta. Esas decisiones están fuera del control del staff.
+**5.6 Sanciones de Discord.** Discord puede sancionar cuentas por su cuenta. Esas decisiones están fuera del control del staff.
 
 ---
 
-## 5. Reportes y apelaciones
+## 6. Reportes y apelaciones
 
-**5.1 Cómo reportar.** Abre un [ticket](https://discord.com/invite/jCmngqZRFV) con tu usuario, el del infractor, qué pasó, cuándo y las pruebas que tengas (capturas o videos). Los reportes sin pruebas pueden no ser atendidos. No tomes represalias ni acuses a nadie en público.
+**6.1 Cómo reportar.** Abre un [ticket](https://discord.com/invite/jCmngqZRFV) con tu usuario, el del infractor, qué pasó, cuándo y las pruebas que tengas (capturas o videos). Los reportes sin pruebas pueden no ser atendidos. No tomes represalias ni acuses a nadie en público.
 
-**5.2 Cómo apelar.** Abre un [ticket](https://discord.com/invite/jCmngqZRFV) indicando tu usuario, el tipo y la fecha de la sanción, tu explicación y las pruebas que tengas. Apelar no garantiza que la sanción se levante: el staff puede mantenerla, reducirla o levantarla. Su decisión es final.
+**6.2 Cómo apelar.** Abre un [ticket](https://discord.com/invite/jCmngqZRFV) indicando tu usuario, el tipo y la fecha de la sanción, tu explicación y las pruebas que tengas. Apelar no garantiza que la sanción se levante: el staff puede mantenerla, reducirla o levantarla. Su decisión es final.
 
-**5.3 Insistencia.** Abrir varios tickets, apelar con cuentas alternas, presionar o insultar al staff puede resultar en el rechazo de la apelación y en una sanción adicional.
+**6.3 Insistencia.** Abrir varios tickets, apelar con cuentas alternas, presionar o insultar al staff puede resultar en el rechazo de la apelación y en una sanción adicional.
 
-**5.4 Reportes falsos.** Hacer un reporte o una apelación con información falsa se sanciona.
+**6.4 Reportes falsos.** Hacer un reporte o una apelación con información falsa se sanciona.
 
 !!! tip "¿Dudas sobre una regla?"
     Abre un [ticket](https://discord.com/invite/jCmngqZRFV) **antes de actuar**. Preguntar no se sanciona; hacerlo "por si acaso" sí puede sancionarse.
