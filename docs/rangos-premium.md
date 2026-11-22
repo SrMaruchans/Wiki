@@ -27,7 +27,7 @@ Los rangos premium de **Wolfland Network** te dan una etiqueta exclusiva, kits, 
 | **Subastas simultáneas** `/ah` | — | 5 | 8 | 12 | 20 | 20 |
 | **Trabajos simultáneos** `/jobs` | — | 5 | 10 | 15 | Todos | Todos |
 | **Misiones simultáneas** `/quest` | 5 | 8 | 12 | 16 | Todas | Todas |
-| **Llaves de Caja Legendaria** | x5 | x8 | x10 | x15 | x20 | x50 |
+| **Llaves de Caja Legendaria** | x5 | x6 | x7 | x8 | x9 | x10 |
 | **Bóvedas personales** `/pv` | 3 | 4 | 5 | 6 | 8 | 10 |
 | **Protecciones** | 4 | 6 | 8 | 5 | 12 | 15 |
 | **ShopChest** (tiendas con cofres) | 20 | 30 | 50 | 80 | 80 | 100 |
@@ -131,7 +131,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
     | **Identidad** | Etiqueta ![Alfa](assets/images/ranks/alfa.png){ .rank-tag } y rol `@ALFA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT ALFA cada 15 días |
     | **Capacidades** | 8 homes · 5 subastas · 5 trabajos · 8 misiones · 4 bóvedas · 6 protecciones · 30 ShopChest · 3 pwarps |
-    | **Recompensas** | 8 llaves de Caja Legendaria |
+    | **Recompensas** | 6 llaves de Caja Legendaria |
     | **Teletransporte** | `/tpa` sin espera |
     | **Comandos nuevos** | `/tpahere` |
 
@@ -144,7 +144,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
     | **Identidad** | Etiqueta ![Omega](assets/images/ranks/omega.png){ .rank-tag } y rol `@OMEGA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT OMEGA y KIT ÉPICO cada 15 días |
     | **Capacidades** | 16 homes · 8 subastas · 10 trabajos · 12 misiones · 5 bóvedas · 8 protecciones · 50 ShopChest · 4 pwarps |
-    | **Recompensas** | 10 llaves de Caja Legendaria |
+    | **Recompensas** | 7 llaves de Caja Legendaria |
     | **Teletransporte** | `/tpa` sin espera · `/tpahere` · `/tpauto` |
     | **Comandos nuevos** | `/afk` `/tpauto` `/ec` `/anvil` |
 
@@ -157,7 +157,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
     | **Identidad** | Etiqueta ![Beta](assets/images/ranks/beta.png){ .rank-tag } y rol `@BETA` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT BETA y los kits anteriores cada 15 días |
     | **Capacidades** | 24 homes · 12 ítems en subasta · 15 trabajos · 16 misiones · 6 bóvedas · 5 protecciones · 80 ShopChest · 5 pwarps |
-    | **Recompensas** | 15 llaves de Caja Legendaria |
+    | **Recompensas** | 8 llaves de Caja Legendaria |
     | **Teletransporte** | `/tpa` sin espera · `/tpahere` · `/tpauto` |
     | **Comandos nuevos** | `/depth` `/ignore` `/itemname` `/feed` `/smithingtable` `/cartographytable` `/grindstone` `/loom` `/stonecutter` |
 
@@ -170,7 +170,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
     | **Identidad** | Etiqueta ![Wolf](assets/images/ranks/wolf.png){ .rank-tag } y rol `@WOLF` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT WOLF y todos los kits anteriores cada 15 días |
     | **Capacidades** | Homes infinitos · 20 subastas · todos los trabajos · todas las misiones · 8 bóvedas · 12 protecciones · 80 ShopChest · 7 pwarps |
-    | **Recompensas** | 20 llaves de Caja Legendaria |
+    | **Recompensas** | 9 llaves de Caja Legendaria |
     | **Teletransporte** | `/tpa` sin espera · `/tpahere` · `/tpauto` · `/top` |
     | **Comandos nuevos** | `/top` `/nick` `/heal` `/rest` `/condense` `/recipe` `/sit` `/lay` `/claw` `/sittoggle` `/ride` `/aignore` |
 
@@ -183,7 +183,7 @@ Comandos que se desbloquean con cada rango. ✅ significa que el rango tiene acc
     | **Identidad** | Etiqueta ![Wolf+](assets/images/ranks/wolf-plus.png){ .rank-tag } y rol `@WOLF+` en [Discord](https://discord.com/invite/jCmngqZRFV) |
     | **Kit** | KIT WOLF+ y todos los demás kits cada **14 días** |
     | **Capacidades** | Homes infinitos · 20 subastas · todos los trabajos · todas las misiones · 10 bóvedas · 15 protecciones · 100 ShopChest · 10 pwarps |
-    | **Recompensas** | 50 llaves de Caja Legendaria |
+    | **Recompensas** | 10 llaves de Caja Legendaria |
     | **Personalización** | Cambia el icono y el nombre de tu baúl · `/chatcolors` con color y formato · `/bkg` para el formato de tu nombre en Tab y Scoreboard |
     | **Comandos nuevos** | `/fly` (Supervivencia, Nether y End) · `/feed` y `/rest` también para otros jugadores · `/bkg` |
 
