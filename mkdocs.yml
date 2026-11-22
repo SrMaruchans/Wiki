@@ -1,7 +1,5 @@
-site_name: Mi Server - Wiki
-site_description: Wiki oficial de nuestro servidor de Minecraft
-# Cuando subas el repo, cambia esta URL por la tuya:
-# site_url: https://TUUSUARIO.github.io/wiki/
+site_name: Wolfland Network
+site_description: Wiki oficial de Wolfland Network, servidor de Minecraft Survival Custom
 
 theme:
   name: material
@@ -22,6 +20,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -30,6 +29,8 @@ markdown_extensions:
   - admonition
   - tables
   - attr_list
+  - toc:
+      permalink: true
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
@@ -38,11 +39,11 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-  - Jugar:
-      - Cómo unirse: unirse.md
-      - Reglas: reglas.md
-      - Comandos: comandos.md
+  - Cómo unirse: unirse.md
+  - Reglas: reglas.md
+  - Comandos: comandos.md
+  - Rangos: rangos.md
   - Comunidad:
-      - Staff y rangos: staff.md
+      - Staff: staff.md
       - Eventos: eventos.md
   - Noticias: noticias.md

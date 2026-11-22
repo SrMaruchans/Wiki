@@ -1,16 +1,10 @@
-# Staff y rangos
+# Staff
 
-## Equipo
+Conoce al equipo que cuida Wolfland Network. Las funciones de cada rango están en la página de [rangos](rangos.md).
 
-| Rol | Miembro |
-|-----|---------|
-| Dueño | *Tu nombre* |
+| Rango | Miembro |
+|-------|---------|
+| Owner | *Tu nombre* |
 | Admin | *Nombre* |
 | Moderador | *Nombre* |
-
-## Rangos de jugador
-
-| Rango | Cómo conseguirlo |
-|-------|------------------|
-| Miembro | Entrar al servidor |
-| Veterano | Cierto tiempo de juego |
+| Ayudante | *Nombre* |

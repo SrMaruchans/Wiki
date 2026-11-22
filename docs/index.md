@@ -1,17 +1,21 @@
-# ⛏️ Bienvenido a la wiki
+# 🐺 Wolfland Network
 
-Aquí encontrarás todo sobre el servidor: cómo entrar, las reglas, los comandos y las novedades de la comunidad.
+Bienvenido a la wiki oficial de **Wolfland Network**, un servidor de Minecraft **Survival Custom**. Aquí encontrarás cómo entrar, las reglas, los comandos, los rangos y todas las novedades de la comunidad.
 
 !!! tip "IP del servidor"
-    `play.tuserver.com` (cámbiala por la tuya)
+    **Java:** `play.wolfland.pro`  
+    **Bedrock:** `play.wolfland.pro` (puerto `19132`)
 
 ## Empieza por aquí
 
-- [Cómo unirse](unirse.md): versión, IP y requisitos.
-- [Reglas](reglas.md): lo básico para convivir bien.
-- [Comandos](comandos.md): lista de comandos útiles.
+- [Cómo unirse](unirse.md): IP, puertos y pasos para Java y Bedrock.
+- [Reglas](reglas.md): las normas detalladas del servidor.
+- [Comandos](comandos.md): todos los comandos disponibles.
+- [Rangos](rangos.md): rangos de jugador y staff, con sus beneficios.
 - [Noticias](noticias.md): últimas actualizaciones.
 
 ## Sobre el servidor
 
-Escribe aquí una descripción corta: qué modos de juego hay, qué lo hace especial y cómo nació la comunidad.
+Wolfland Network es un servidor **Survival Custom**: la experiencia clásica de supervivencia, con contenido y mecánicas propias.
+
+*Aquí puedes añadir una descripción más completa: qué cambia respecto al survival normal, qué mecánicas propias hay y cómo nació la comunidad.*
