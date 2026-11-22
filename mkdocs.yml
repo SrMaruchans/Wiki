@@ -1,4 +1,5 @@
 site_name: Wolfland Network
+copyright: "© 2026 Wolfland Network. Todos los derechos reservados. Las etiquetas de rangos y el contenido de esta wiki no pueden copiarse ni reutilizarse sin autorización."
 site_description: Wiki oficial de Wolfland Network, servidor de Minecraft Survival Custom
 
 theme:
@@ -29,6 +30,9 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/protect.js
 
 markdown_extensions:
   - admonition
@@ -62,6 +66,7 @@ nav:
   - Tienda: https://wolfland.tebex.store/
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/jCmngqZRFV

@@ -7,6 +7,7 @@ Todos los rangos de **Wolfland Network**, organizados por categoría.
 | [Staff](#rangos-del-staff) | Equipo que administra, desarrolla y modera el servidor |
 | [Premium](#rangos-premium) | Rangos con beneficios para los jugadores ([ver detalle](rangos-premium.md)) |
 | [Media](#rangos-media) | Creadores de contenido que representan al servidor ([ver detalle](rangos-media.md)) |
+| [Artista](#rango-artista) | Artistas y diseñadores que ofrecen sus servicios ([ver detalle](servicios.md#artistas-y-disenadores)) |
 | [Exclusivos](#rangos-exclusivos-y-caducados) | Rangos de temporadas pasadas que ya no se pueden obtener |
 
 !!! note "Para el administrador"
@@ -175,7 +176,7 @@ Rangos con etiqueta exclusiva, kits, más capacidad y comandos exclusivos. Orden
 
 ## Rangos media
 
-Rangos para los creadores de contenido que muestran Wolfland Network en sus redes. Todos equivalen a un rango **Beta** del servidor.
+Rangos para los creadores de contenido que muestran Wolfland Network en sus redes. Todos equivalen a un rango **Beta** del servidor y tienen rol en Discord, un canal de alertas de redes sociales y un canal exclusivo.
 
 | Etiqueta | Plataforma | Requisito base |
 |:--------:|------------|----------------|
@@ -185,6 +186,16 @@ Rangos para los creadores de contenido que muestran Wolfland Network en sus rede
 | ![Kick](assets/images/ranks/kick.png){ .rank-tag } | Kick | Igual que Twitch |
 
 [:material-video-account: Ver requisitos, reglas y cómo postular](rangos-media.md){ .md-button .md-button--primary }
+
+---
+
+## Rango Artista
+
+![Artista](assets/images/ranks/artista.png){ .rank-tag-lg }
+
+Para artistas y diseñadores, profesionales o no, que ofrecen sus servicios de diseño y arte. Incluye el rango en el servidor y un rol en Discord.
+
+[:material-palette: Ver requisitos y cómo postular](servicios.md#artistas-y-disenadores){ .md-button .md-button--primary }
 
 ---
 

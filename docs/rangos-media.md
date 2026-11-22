@@ -40,6 +40,18 @@ Todos los rangos media equivalen a un rango **Beta** del servidor. Consulta sus 
 
 ---
 
+## Beneficios
+
+Además del rango equivalente dentro del servidor, los creadores tienen beneficios en nuestro [Discord](https://discord.com/invite/jCmngqZRFV):
+
+| Beneficio | Detalle |
+|-----------|---------|
+| **Rol en Discord** | Un rol acorde a tu rango media |
+| **Canal de redes sociales** | Un canal donde se publica una **alerta** cuando prendes un live, transmites o subes un video en las redes con las que eres creador |
+| **Canal exclusivo** | Acceso a un canal único para los rangos media |
+
+---
+
 ## Actividad mínima
 
 !!! warning "Mínimo 2 publicaciones por semana"
@@ -77,6 +89,9 @@ Discord: https://discord.com/invite/jCmngqZRFV
 2. **No se puede exigir nada al staff.** Los creadores siguen las [reglas generales](reglas.md) del servidor como cualquier otro miembro, con o sin rango premium.
 3. **No hacerse pasar por dueños o staff** del servidor.
 4. **No publicar otra IP u otro servidor** en transmisiones ni en videos.
+
+!!! note "Las mismas reglas aplican"
+    Los creadores deben seguir las reglas del servidor y del Discord **como un usuario más, no como staff**.
 
 ---
 
