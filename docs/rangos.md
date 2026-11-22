@@ -30,7 +30,7 @@ Wolfland Network tiene rangos para jugadores y para el staff.
 
 - Todo lo del rango Veterano.
 - Acceso anticipado a eventos de la comunidad.
-- Rol especial en Discord.
+- Rol especial en nuestro [Discord](https://discord.com/invite/jCmngqZRFV).
 
 ## Rangos del staff
 
@@ -63,4 +63,4 @@ Wolfland Network tiene rangos para jugadores y para el staff.
 - Avisa al staff superior cuando detecta una infracción.
 
 !!! info "¿Quieres formar parte del staff?"
-    Las vacantes se anuncian en Discord y en las [noticias](noticias.md).
+    Las vacantes se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV) y en las [noticias](noticias.md). Para postularte, abre un [ticket](https://discord.com/invite/jCmngqZRFV).

@@ -6,6 +6,9 @@ Bienvenido a la wiki oficial de **Wolfland Network**, un servidor de Minecraft *
     **Java:** `play.wolfland.pro`  
     **Bedrock:** `play.wolfland.pro` (puerto `19132`)
 
+[:fontawesome-brands-discord: Unirse al Discord](https://discord.com/invite/jCmngqZRFV){ .md-button .md-button--primary }
+[:fontawesome-solid-store: Ir a la Tienda](https://wolfland.tebex.store/){ .md-button }
+
 ## Empieza por aquí
 
 - [Cómo unirse](unirse.md): IP, puertos y pasos para Java y Bedrock.
@@ -13,6 +16,8 @@ Bienvenido a la wiki oficial de **Wolfland Network**, un servidor de Minecraft *
 - [Comandos](comandos.md): todos los comandos disponibles.
 - [Rangos](rangos.md): rangos de jugador y staff, con sus beneficios.
 - [Noticias](noticias.md): últimas actualizaciones.
+- [Discord](https://discord.com/invite/jCmngqZRFV): únete a la comunidad, abre tickets y habla con el staff.
+- [Tienda](https://wolfland.tebex.store/): tienda oficial del servidor.
 
 ## Sobre el servidor
 

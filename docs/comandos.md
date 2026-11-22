@@ -62,4 +62,4 @@ Lista completa de comandos disponibles en Wolfland Network.
 | `/kick <jugador> <motivo>` | Expulsa a un jugador |
 
 !!! tip "¿No encuentras un comando?"
-    Pregunta en Discord y el staff te ayudará.
+    Pregunta en nuestro [Discord](https://discord.com/invite/jCmngqZRFV) y el staff te ayudará.

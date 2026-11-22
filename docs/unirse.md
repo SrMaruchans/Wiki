@@ -28,7 +28,7 @@ Wolfland Network acepta jugadores de **Java** y de **Bedrock**.
 4. Guarda y pulsa sobre el servidor para entrar.
 
 !!! note "Consolas"
-    En consolas (PlayStation, Xbox, Switch) no se puede añadir un servidor directamente. Hay que usar un método alternativo; consulta con el staff en Discord.
+    En consolas (PlayStation, Xbox, Switch) no se puede añadir un servidor directamente. Hay que usar un método alternativo; consulta con el staff en nuestro [Discord](https://discord.com/invite/jCmngqZRFV).
 
 ## Primeros pasos dentro
 
@@ -38,4 +38,4 @@ Wolfland Network acepta jugadores de **Java** y de **Bedrock**.
 
 ## ¿Problemas para entrar?
 
-Pregunta en nuestro Discord y el staff te ayudará.
+Entra a nuestro [Discord](https://discord.com/invite/jCmngqZRFV), abre un [ticket](https://discord.com/invite/jCmngqZRFV) y el staff te ayudará.

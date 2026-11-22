@@ -9,7 +9,7 @@ Al entrar a Wolfland Network aceptas todas las reglas de esta página. Desconoce
 
 1. **Respeto ante todo.** No se toleran insultos, acoso, discriminación ni amenazas hacia ningún jugador o miembro del staff.
 2. **Una persona, una cuenta principal.** Evita usar cuentas alternas para obtener ventajas.
-3. **Sigue las indicaciones del staff.** Sus decisiones deben respetarse; si no estás de acuerdo, reclama por los canales oficiales y no en el chat.
+3. **Sigue las indicaciones del staff.** Sus decisiones deben respetarse; si no estás de acuerdo, reclama por los canales oficiales (nuestro [Discord](https://discord.com/invite/jCmngqZRFV)) y no en el chat.
 4. **No compartas datos personales** tuyos ni de otras personas.
 5. **Prohibido suplantar** a jugadores o miembros del staff.
 
@@ -54,4 +54,4 @@ Al entrar a Wolfland Network aceptas todas las reglas de esta página. Desconoce
 
 ## 7. Apelaciones
 
-Si crees que una sanción fue injusta, abre un ticket en nuestro Discord con tu nombre de usuario, la sanción recibida y tu explicación.
+Si crees que una sanción fue injusta, abre un [ticket en nuestro Discord](https://discord.com/invite/jCmngqZRFV) con tu nombre de usuario, la sanción recibida y tu explicación.

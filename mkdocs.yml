@@ -47,3 +47,14 @@ nav:
       - Staff: staff.md
       - Eventos: eventos.md
   - Noticias: noticias.md
+  - Discord: https://discord.com/invite/jCmngqZRFV
+  - Tienda: https://wolfland.tebex.store/
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/jCmngqZRFV
+      name: Discord de Wolfland Network
+    - icon: fontawesome/solid/store
+      link: https://wolfland.tebex.store/
+      name: Tienda de Wolfland Network
