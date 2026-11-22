@@ -1,0 +1,48 @@
+site_name: Mi Server - Wiki
+site_description: Wiki oficial de nuestro servidor de Minecraft
+# Cuando subas el repo, cambia esta URL por la tuya:
+# site_url: https://TUUSUARIO.github.io/wiki/
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inicio: index.md
+  - Jugar:
+      - Cómo unirse: unirse.md
+      - Reglas: reglas.md
+      - Comandos: comandos.md
+  - Comunidad:
+      - Staff y rangos: staff.md
+      - Eventos: eventos.md
+  - Noticias: noticias.md
