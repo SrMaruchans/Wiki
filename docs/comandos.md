@@ -10,9 +10,9 @@ Lista completa de comandos disponibles en Wolfland Network.
 | Comando | Descripción |
 |---------|-------------|
 | `/spawn` | Te lleva al spawn del servidor |
-| `/help` | Muestra la ayuda general |
+| `/ayuda` | Muestra la ayuda general |
 | `/rules` | Muestra las reglas en el chat |
-| `/list` | Muestra los jugadores conectados |
+| `/menu` | Muestra el menu principal |
 
 ## Teletransporte
 
@@ -46,9 +46,9 @@ Lista completa de comandos disponibles en Wolfland Network.
 
 | Comando | Descripción |
 |---------|-------------|
-| `/claim` | Protege el terreno donde estás |
-| `/trust <jugador>` | Da permiso a un jugador en tu terreno |
-| `/untrust <jugador>` | Quita ese permiso |
+| `/cities` | Protege el terreno donde estás |
+| `/cities add <jugador>` | Da permiso a un jugador en tu terreno |
+| `/cities remove <jugador>` | Quita ese permiso |
 
 ## Comandos del staff
 
