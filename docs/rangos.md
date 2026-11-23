@@ -10,9 +10,6 @@ Todos los rangos de **Wolfland Network**, organizados por categoría.
 | [Artista](#rango-artista) | Artistas y diseñadores que ofrecen sus servicios ([ver detalle](servicios.md#artistas-y-disenadores)) |
 | [Exclusivos](#rangos-exclusivos-y-caducados) | Rangos de temporadas pasadas que ya no se pueden obtener |
 
-!!! note "Para el administrador"
-    Los nombres de todos los rangos son los reales. Las funciones del staff son una base profesional: ajústalas a como trabaja tu equipo.
-
 ---
 
 ## Rangos del staff
