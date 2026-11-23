@@ -2,9 +2,6 @@
 
 Lista completa de comandos disponibles en Wolfland Network.
 
-!!! note "Para el administrador"
-    Los comandos de abajo son ejemplos comunes. Reemplázalos por los comandos reales de tu servidor y de tus plugins.
-
 !!! info "Jugadores de Bedrock"
     Todos los comandos funcionan igual en Java y en Bedrock. Escríbelos con `/` en el chat.
 
