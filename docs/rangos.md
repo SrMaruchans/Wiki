@@ -18,7 +18,7 @@ Ordenados de mayor a menor jerarquía.
 
 | Nivel | Etiqueta | Rango | Área |
 |:-----:|:--------:|-------|------|
-| 1 | — | **Fundador** | Dirección del proyecto |
+| 1 | ![Fundador](assets/images/ranks/fundador.png){ .rank-tag } | **Fundador** | Dirección del proyecto |
 | 2 | ![Owner](assets/images/ranks/owner.png){ .rank-tag } | **Owner** | Dirección del servidor |
 | 3 | ![Dev](assets/images/ranks/dev.png){ .rank-tag } | **Developer** | Desarrollo y sistemas técnicos |
 | 4 | ![Manager](assets/images/ranks/manager.png){ .rank-tag } | **Manager** | Gestión del equipo |
@@ -28,6 +28,8 @@ Ordenados de mayor a menor jerarquía.
 | 8 | ![T-Helper](assets/images/ranks/thelper.png){ .rank-tag } | **T-Helper** (Ayudante de Prueba) | Periodo de prueba |
 
 ### Fundador
+
+![Fundador](assets/images/ranks/fundador.png){ .rank-tag-lg }
 
 *Creador de Wolfland Network.*
 

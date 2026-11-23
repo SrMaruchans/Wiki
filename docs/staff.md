@@ -6,7 +6,7 @@ Conoce al equipo que cuida Wolfland Network. Las funciones de cada rango están 
 
 | Rango | Miembro |
 |-------|---------|
-| Fundador | Maruchans, SmartWolf |
+| ![Fundador](assets/images/ranks/fundador.png){ .rank-tag } | Maruchans, SmartWolf |
 | ![Owner](assets/images/ranks/owner.png){ .rank-tag } | Jhazz26, Inerfed |
 | ![Dev](assets/images/ranks/dev.png){ .rank-tag } | _Tommasino_ |
 | ![Manager](assets/images/ranks/manager.png){ .rank-tag } | Vacio |
