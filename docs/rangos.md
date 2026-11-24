@@ -145,10 +145,10 @@ Ordenados de mayor a menor jerarquía.
 T-Helper  →  Helper  →  Moderador  →  Admin
 ```
 
-Los rangos de **Developer** y **Manager** se asignan por designación directa de la dirección, según las necesidades del equipo.
+El rango de **Manager** se asigna por designación directa de la dirección, según las necesidades del equipo. El de **Developer** se obtiene mediante una [postulación técnica](postulaciones.md#developer-configurador), con la aprobación de la dirección.
 
 !!! info "¿Quieres formar parte del staff?"
-    Las vacantes se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV) y en las [noticias](noticias.md). Para postularte, abre un [ticket](https://discord.com/invite/jCmngqZRFV).
+    Las vacantes se anuncian en nuestro [Discord](https://discord.com/invite/jCmngqZRFV) y en las [noticias](noticias.md). Revisa primero los [requisitos de postulación](postulaciones.md) y, si los cumples, abre un [ticket](https://discord.com/invite/jCmngqZRFV).
 
 ---
 
