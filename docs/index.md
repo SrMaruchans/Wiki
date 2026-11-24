@@ -80,26 +80,30 @@ window.copyServerIp = (btn, text) => {
 
 <style>
 .md-typeset .wf-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: .9rem; margin: 1.1rem 0 1.6rem; }
-.md-typeset .wf-step { position: relative; display: flex; flex-direction: column; gap: .3rem; padding: 1.1rem 1.1rem 1.1rem 1.1rem; border-radius: 12px; border: 1px solid rgba(255,83,0,.28); background: linear-gradient(145deg, rgba(255,83,0,.09), transparent 70%); color: inherit; transition: transform .16s ease, box-shadow .2s ease, border-color .2s ease; }
+.md-typeset .wf-step { position: relative; display: flex; flex-direction: column; gap: .3rem; padding: 1.1rem; border-radius: 12px; border: 1px solid rgba(255,83,0,.28); background: linear-gradient(145deg, rgba(255,83,0,.09), transparent 70%); color: inherit; transition: transform .16s ease, box-shadow .2s ease, border-color .2s ease; }
 .md-typeset .wf-step strong { font-size: .98rem; }
 .md-typeset .wf-step > span:not(.wf-step-num) { font-size: .82rem; color: var(--md-default-fg-color--light); line-height: 1.45; }
 .md-typeset .wf-step-num { display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border-radius: 50%; background: #FF5300; color: #fff; font-weight: 700; font-size: .9rem; margin-bottom: .3rem; }
-.md-typeset .wf-step:hover, .md-typeset .wf-card:hover { transform: translateY(-2px); border-color: #FF5300; box-shadow: 0 6px 18px rgba(255,83,0,.22); }
+.md-typeset .wf-step:hover, .md-typeset a.wf-card:hover { transform: translateY(-2px); border-color: #FF5300; box-shadow: 0 6px 18px rgba(255,83,0,.22); }
 .md-typeset .wf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: .8rem; margin: .8rem 0 1.4rem; }
 .md-typeset .wf-card { display: flex; align-items: flex-start; gap: .85rem; padding: .95rem 1rem; border-radius: 12px; border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-code-bg-color); color: inherit; transition: transform .16s ease, box-shadow .2s ease, border-color .2s ease; }
 .md-typeset .wf-card-icon { flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 10px; background: rgba(255,83,0,.14); color: #FF5300; }
 .md-typeset .wf-card-body { display: flex; flex-direction: column; gap: .15rem; min-width: 0; }
 .md-typeset .wf-card-body strong { font-size: .95rem; }
-.md-typeset .wf-card-body span { font-size: .8rem; color: var(--md-default-fg-color--light); line-height: 1.4; }
+.md-typeset .wf-card-body > span { font-size: .8rem; color: var(--md-default-fg-color--light); line-height: 1.4; }
 [data-md-color-scheme="slate"] .md-typeset .wf-card-icon { color: #ff8c52; }
+.md-typeset .wf-soon { display: inline-block; margin-left: .35rem; padding: .05rem .5rem; border-radius: 999px; background: rgba(255,83,0,.18); color: #FF5300; font-size: .62rem; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; vertical-align: middle; }
+[data-md-color-scheme="slate"] .md-typeset .wf-soon { color: #ff8c52; }
 .md-typeset .wf-timeline { position: relative; margin: 1.2rem 0 1.6rem; padding-left: 1.6rem; border-left: 2px solid rgba(255,83,0,.35); }
 .md-typeset .wf-tl-item { position: relative; padding: 0 0 1.15rem 0; }
 .md-typeset .wf-tl-item:last-child { padding-bottom: 0; }
 .md-typeset .wf-tl-item::before { content: ""; position: absolute; left: calc(-1.6rem - 7px); top: .3rem; width: 12px; height: 12px; border-radius: 50%; background: #FF5300; box-shadow: 0 0 0 4px rgba(255,83,0,.2); }
+.md-typeset .wf-tl-item.is-next::before { left: calc(-1.6rem - 9px); top: .2rem; width: 16px; height: 16px; box-shadow: 0 0 0 5px rgba(255,83,0,.28), 0 0 14px rgba(255,83,0,.55); }
 .md-typeset .wf-tl-date { display: block; font-size: .72rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: #FF5300; }
 [data-md-color-scheme="slate"] .md-typeset .wf-tl-date { color: #ff8c52; }
 .md-typeset .wf-tl-item strong { display: block; margin: .1rem 0 .15rem; }
 .md-typeset .wf-tl-item p { margin: 0; font-size: .86rem; color: var(--md-default-fg-color--light); }
+.md-typeset .wf-tl-item p strong { display: inline; margin: 0; color: var(--md-default-fg-color); }
 .md-typeset .wf-values { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: .8rem; margin: .8rem 0 1.4rem; }
 .md-typeset .wf-value { display: flex; flex-direction: column; gap: .35rem; padding: 1rem; border-radius: 12px; border: 1px solid var(--md-default-fg-color--lightest); background: linear-gradient(160deg, rgba(255,83,0,.07), transparent 65%); }
 .md-typeset .wf-value strong { font-size: .95rem; }
@@ -193,27 +197,59 @@ Sigue estos tres pasos para empezar a jugar:
 
 ## :material-information-outline: Sobre Wolfland Network { #sobre-nosotros }
 
-**Wolfland Network** es un servidor de Minecraft **Survival Custom**: la experiencia clásica de supervivencia, con contenido y mecánicas propias. Somos un **servidor pequeño con el objetivo de ser grande**, y trabajamos cada día para lograrlo.
+**Wolfland Network** es un servidor de Minecraft **Survival Custom**: la experiencia clásica de supervivencia, con contenido y mecánicas propias, pensada para que explorar, progresar y jugar en comunidad sea cada vez mejor. Somos un **servidor pequeño con el objetivo de ser grande**, y trabajamos cada día para lograrlo.
 
 ### Nuestra historia
 
+Wolfland tiene una historia de esfuerzo, caídas y regresos. Este es nuestro camino:
+
 <div class="wf-timeline">
   <div class="wf-tl-item">
+    <span class="wf-tl-date">Los inicios</span>
+    <strong>TheWolfes</strong>
+    <p>Todo empezó con un Realm de Minecraft Bedrock y solo 10 jugadores. Nuestra comunidad vivía en un grupo de Messenger de Facebook.</p>
+  </div>
+  <div class="wf-tl-item">
     <span class="wf-tl-date">Diciembre de 2023</span>
-    <strong>Nace el proyecto</strong>
-    <p>Wolfland Network empieza su camino como un proyecto pequeño, con grandes ganas de crecer.</p>
+    <strong>Nace Wolfland</strong>
+    <p>Surge la idea de Wolfland y, desde entonces, el proyecto no se ha detenido.</p>
   </div>
   <div class="wf-tl-item">
-    <span class="wf-tl-date">Pausas y reaperturas</span>
-    <strong>Nunca nos hemos rendido</strong>
-    <p>Hubo momentos en los que el servidor se pausó. Cada vez volvimos a abrir y seguimos adelante.</p>
+    <span class="wf-tl-date">Marzo de 2024</span>
+    <strong>Primer cierre</strong>
+    <p>Tuvimos que cerrar por problemas que no pudimos resolver a tiempo.</p>
   </div>
   <div class="wf-tl-item">
-    <span class="wf-tl-date">Hoy</span>
-    <strong>Seguimos creciendo</strong>
-    <p>Continuamos mejorando el servidor y trayendo novedades para toda nuestra comunidad.</p>
+    <span class="wf-tl-date">Noviembre de 2024</span>
+    <strong>Volvemos a intentarlo</strong>
+    <p>Con muy poco presupuesto lo preparamos todo en una sola semana y abrimos el <strong>2 de diciembre</strong>. Desde ahí, seguimos adelante.</p>
+  </div>
+  <div class="wf-tl-item">
+    <span class="wf-tl-date">Junio de 2025</span>
+    <strong>Segundo cierre</strong>
+    <p>Al ser una sola persona la encargada de todo, el estrés era demasiado y decidimos parar.</p>
+  </div>
+  <div class="wf-tl-item">
+    <span class="wf-tl-date">Enero y marzo de 2026</span>
+    <strong>Nueva apertura</strong>
+    <p>En enero anunciamos otra apertura y abrimos en marzo de 2026.</p>
+  </div>
+  <div class="wf-tl-item">
+    <span class="wf-tl-date">Julio de 2026</span>
+    <strong>Mantenimiento indefinido</strong>
+    <p>Pausamos el servidor para mejorar muchas cosas y traer una mejor calidad.</p>
+  </div>
+  <div class="wf-tl-item is-next">
+    <span class="wf-tl-date">Diciembre de 2026 <span class="wf-soon">Próximamente</span></span>
+    <strong>Reapertura: el prime de Wolfland</strong>
+    <p>Volvemos con todo lo que mejoramos durante el mantenimiento. <strong>¡Se viene el prime de Wolfland!</strong></p>
   </div>
 </div>
+
+!!! quote "Sin rendirnos"
+    Hemos recibido críticas, enojos e incluso malos deseos, y hemos atravesado problemas personales. **Aun así, no nos hemos rendido.** Cada pausa fue una oportunidad para volver mejores, y cada regreso es posible gracias a quienes creen en este proyecto.
+
+**Esperamos que formes parte de esta comunidad y de todo lo que viene.**
 
 !!! abstract "Nuestro compromiso"
     Daremos lo mejor para que la comunidad de Wolfland Network sea **la mejor de todas**, mejorando y trayendo cosas nuevas. **Nuestra prioridad es la comodidad y la jugabilidad de nuestros miembros.**
@@ -243,6 +279,73 @@ Sigue estos tres pasos para empezar a jugar:
   </div>
 </div>
 
+### Qué hace especial a nuestro Survival Custom
+
+Un survival pensado para que cada día tengas algo nuevo que hacer. Te invitamos a descubrirlo:
+
+<div class="wf-grid">
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21V8l3 2V5l3 2V4h6v3l3-2v5l3-2v13z"/><path d="M10 21v-5a2 2 0 0 1 4 0v5"/></svg></span>
+    <span class="wf-card-body"><strong>Mazmorras</strong><span>Mazmorras llenas de desafíos para explorar.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2a8 8 0 0 0-8 8c0 2.5 1.2 4.3 3 5.5V19a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-3.5c1.8-1.2 3-3 3-5.5a8 8 0 0 0-8-8z"/><circle cx="9" cy="11" r="1.2"/><circle cx="15" cy="11" r="1.2"/><line x1="10" y1="20" x2="10" y2="22"/><line x1="14" y1="20" x2="14" y2="22"/></svg></span>
+    <span class="wf-card-body"><strong>Jefes customizados</strong><span>Jefes personalizados que ponen a prueba tus habilidades.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></svg></span>
+    <span class="wf-card-body"><strong>Kits épicos</strong><span>Kits épicos disponibles, además de los de los rangos de pago.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></span>
+    <span class="wf-card-body"><strong>Trabajos mejorados</strong><span>Un sistema de trabajos mejorado para progresar mientras juegas.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span>
+    <span class="wf-card-body"><strong>Protecciones mejoradas</strong><span>Un sistema de protecciones mejorado para cuidar tus terrenos y construcciones.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="10" r="2"/><circle cx="10" cy="6" r="2"/><circle cx="14" cy="6" r="2"/><circle cx="18" cy="10" r="2"/><path d="M12 12c-3 0-6 3-6 6 0 2 2 3 3.5 2.5.9-.3 1.5-.5 2.5-.5s1.6.2 2.5.5c1.5.5 3.5-.5 3.5-2.5 0-3-3-6-6-6z"/></svg></span>
+    <span class="wf-card-body"><strong>Mascotas</strong><span>Mascotas para acompañarte en tu aventura.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg></span>
+    <span class="wf-card-body"><strong>Monturas <span class="wf-soon">Próximamente</span></strong><span>Monturas para recorrer el mundo.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg></span>
+    <span class="wf-card-body"><strong>Mundo de exploración</strong><span>Un mundo principal con estructuras y biomas mejorados, creado para explorar.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg></span>
+    <span class="wf-card-body"><strong>Rankup</strong><span>Un sistema de rankup para avanzar y progresar.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></span>
+    <span class="wf-card-body"><strong>Recompensas diarias</strong><span>Entra cada día y recibe tus recompensas.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="17 1 21 5 17 9"/><path d="M3 11V9a4 4 0 0 1 4-4h14"/><polyline points="7 23 3 19 7 15"/><path d="M21 13v2a4 4 0 0 1-4 4H3"/></svg></span>
+    <span class="wf-card-body"><strong>Tradeos y crafteos</strong><span>Muchos tradeos y crafteos que mejoran la experiencia y el progreso.</span></span>
+  </div>
+  <div class="wf-card wf-card-static">
+    <span class="wf-card-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></span>
+    <span class="wf-card-body"><strong>Mejoras constantes</strong><span>Con cada día que pasa, el servidor mejora más.</span></span>
+  </div>
+</div>
+
+Y además, estos sistemas te esperan en el servidor:
+
+<div class="wf-chips">
+  <span class="wf-chip">Mundos de recursos</span>
+  <span class="wf-chip">Misiones <code>/quest</code></span>
+  <span class="wf-chip">Subastas <code>/ah</code></span>
+  <span class="wf-chip">Tiendas con cofres (ShopChest)</span>
+  <span class="wf-chip">Warps personales</span>
+  <span class="wf-chip">Bóvedas personales <code>/pv</code></span>
+  <span class="wf-chip">Cajas con llaves legendarias</span>
+</div>
+
 ### Ficha del servidor
 
 | Dato | Detalle |
@@ -255,21 +358,6 @@ Sigue estos tres pasos para empezar a jugar:
 | **Inicio del proyecto** | Diciembre de 2023 |
 | **Comunidad** | [Discord](https://discord.com/invite/jCmngqZRFV) |
 | **Tienda oficial** | [wolfland.tebex.store](https://wolfland.tebex.store/) |
-
-### Qué encontrarás en el servidor
-
-<div class="wf-chips">
-  <span class="wf-chip">Mundos de recursos</span>
-  <span class="wf-chip">Misiones <code>/quest</code></span>
-  <span class="wf-chip">Trabajos <code>/jobs</code></span>
-  <span class="wf-chip">Subastas <code>/ah</code></span>
-  <span class="wf-chip">Tiendas con cofres (ShopChest)</span>
-  <span class="wf-chip">Warps personales</span>
-  <span class="wf-chip">Protección de terrenos</span>
-  <span class="wf-chip">Bóvedas personales <code>/pv</code></span>
-  <span class="wf-chip">Kits periódicos</span>
-  <span class="wf-chip">Cajas con llaves legendarias</span>
-</div>
 
 ---
 
@@ -295,3 +383,13 @@ Sigue estos tres pasos para empezar a jugar:
 
 ??? question "¿Dónde veo las novedades?"
     En la sección de [Noticias](noticias.md) y en el [Discord](https://discord.com/invite/jCmngqZRFV).
+
+---
+
+## :material-heart: Te esperamos { #te-esperamos }
+
+**Esperamos que formes parte de esta comunidad.** Aquí hay un lugar para ti: explora, construye, haz amigos y vive la aventura con nosotros. ¡Te estamos esperando en Wolfland!
+
+[:fontawesome-brands-discord: Unirme al Discord](https://discord.com/invite/jCmngqZRFV){ .md-button .md-button--primary }
+[:material-login: Cómo unirse](unirse.md){ .md-button }
+{: .cta-buttons .center }
